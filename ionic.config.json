@@ -1,0 +1,7 @@
+{
+  "name": "wakey-wakey",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
